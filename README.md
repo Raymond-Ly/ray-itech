@@ -1,4 +1,4 @@
-### Hi there, Ray here 👋
+### Ray here 👋
 
 ### Tech Stack
 
@@ -17,3 +17,5 @@
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/fastly/fastly-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+
+https://visitor-badge.laobi.icu/badge?page_id=ray-itech
