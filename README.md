@@ -1,7 +1,7 @@
 ### Ray there 👋
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-itech&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-ly&theme=dark" />
 </div>
 
 #### Tech Stack
